@@ -1,0 +1,2 @@
+Samples,GeometryRate_Hz,Deadline_ms,Mean_ms,Median_ms,StandardDeviation_ms,Minimum_ms,Maximum_ms,P95_ms,P99_ms,MeanMargin_ms,P95Margin_ms,P99Margin_ms,MeanUtilisation_percent,P95Utilisation_percent,P99Utilisation_percent,SupportedRateFromP99_Hz,ValidationResult
+10,15,66.67,41.95,41.9,0.932440048713291,40.6,43.4,43.4,43.4,24.72,23.27,23.27,62.9218539073046,65.0967451627419,65.0967451627419,23.0414746543779,PASS
